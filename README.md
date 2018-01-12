@@ -10,7 +10,7 @@ $ composer require ludmanp/tmcms-module-recapture
 ## Basic usage
 
 In CMS menu reCaptcha/Settings fill `key` and `secret` for reCaptcha from https://www.google.com/recaptcha/admin.
-Settings items will appear after first test usage of binding button and validation. Or you can create then in CMS Settings (`http://your.site/cms/?p=settings&do=_default`) module manually, assigning `module` value `recaptcha`.
+Settings items will appear after first test usage of binding button and validation. Or you can create them in CMS Settings (`http://your.site/cms/?p=settings&do=_default`) module manually, assigning `module` value `recaptcha`.
 
 ### Bind to button
 
