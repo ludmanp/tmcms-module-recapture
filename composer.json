@@ -1,0 +1,29 @@
+{
+  "name": "ludmanp/tmcms-module-recapture",
+  "type": "library",
+  "description": "reCapture for The Modern Cms ",
+  "keywords": [
+    "module",
+    "capture",
+    "recapture",
+    "TMCms"
+  ],
+  "homepage": "http://maxplanck.company/",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Mark Leidman",
+      "email": "markleidman@gmail.com",
+      "homepage": "http://maxplanck.company/",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "devp-eu/tmcms-module-settings": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "TMCms\\Modules\\Recapture\\": "src"
+    }
+  }
+}
