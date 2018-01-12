@@ -23,7 +23,7 @@
   },
   "autoload": {
     "psr-4": {
-      "TMCms\\Modules\\Recapture\\": "src"
+      "TMCms\\Modules\\Recaptcha\\": "src"
     }
   }
 }
